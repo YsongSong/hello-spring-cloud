@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="da79aecd-f166-47d5-882a-8faa550b8962" name="Default Changelist" comment="" />
+    <list default="true" id="da79aecd-f166-47d5-882a-8faa550b8962" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/hello-spring-cloud-dependencies/target/" />
     <ignored path="$PROJECT_DIR$/hello-spring-cloud-eureka/target/" />
     <ignored path="$PROJECT_DIR$/hello-spring-cloud-service-admin/target/" />
@@ -26,7 +28,7 @@
         <entry file="file://$PROJECT_DIR$/hello-spring-cloud-zuul/src/main/java/top/lwaiting/hello/spring/cloud/zuul/ZuulApplication.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="97">
-              <caret line="11" column="24" lean-forward="true" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+              <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#598#599#0" expanded="true" />
@@ -37,45 +39,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hello-spring-cloud-zuul/src/main/java/top/lwaiting/hello/spring/cloud/zuul/filter/LoginFilter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="50" column="20" selection-start-line="50" selection-start-column="20" selection-end-line="50" selection-end-column="20" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hello-spring-cloud-service-admin/src/main/java/top/lwaiting/hello/spring/cloud/service/admin/ServiceAdminApplication.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="199">
-              <caret line="16" column="67" selection-start-line="16" selection-start-column="67" selection-end-line="16" selection-end-column="67" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#483#484#0" expanded="true" />
-                <element signature="e#557#558#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/hello-spring-cloud-zuul/src/main/resources/application.yml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
               <caret line="15" column="44" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="44" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hello-spring-cloud-zuul/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1088">
-              <caret line="64" column="10" selection-start-line="64" selection-start-column="10" selection-end-line="64" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -125,6 +92,7 @@
         <option value="$PROJECT_DIR$/hello-spring-cloud-zuul/src/main/java/top/lwaiting/hello/spring/cloud/zuul/ZuulApplication.java" />
         <option value="$PROJECT_DIR$/hello-spring-cloud-service-admin/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/hello-spring-cloud-zuul/src/main/java/top/lwaiting/hello/spring/cloud/zuul/filter/LoginFilter.java" />
+        <option value="$PROJECT_DIR$/REMADE.md" />
       </list>
     </option>
   </component>
@@ -162,59 +130,6 @@
             <path>
               <item name="hello-spring-cloud" type="b2602c69:ProjectViewProjectNode" />
               <item name="hello-spring-cloud" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hello-spring-cloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hello-spring-cloud" type="462c0819:PsiDirectoryNode" />
-              <item name="hello-spring-cloud-zuul" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hello-spring-cloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hello-spring-cloud" type="462c0819:PsiDirectoryNode" />
-              <item name="hello-spring-cloud-zuul" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hello-spring-cloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hello-spring-cloud" type="462c0819:PsiDirectoryNode" />
-              <item name="hello-spring-cloud-zuul" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hello-spring-cloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hello-spring-cloud" type="462c0819:PsiDirectoryNode" />
-              <item name="hello-spring-cloud-zuul" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hello-spring-cloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hello-spring-cloud" type="462c0819:PsiDirectoryNode" />
-              <item name="hello-spring-cloud-zuul" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="zuul" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hello-spring-cloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hello-spring-cloud" type="462c0819:PsiDirectoryNode" />
-              <item name="hello-spring-cloud-zuul" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="zuul" type="462c0819:PsiDirectoryNode" />
-              <item name="provider" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hello-spring-cloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hello-spring-cloud" type="462c0819:PsiDirectoryNode" />
-              <item name="hello-spring-cloud-zuul" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -365,17 +280,25 @@
       <workItem from="1558572444936" duration="2869000" />
       <workItem from="1558578747150" duration="11619000" />
       <workItem from="1558941590048" duration="1191000" />
+      <workItem from="1558945562372" duration="250000" />
     </task>
+    <task id="LOCAL-00001" summary="add README.md">
+      <created>1558945779199</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1558945779199</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="73388000" />
+    <option name="totallyTimeSpent" value="73638000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23863636" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24242425" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -399,7 +322,7 @@
       <window_info anchor="bottom" id="Spring" order="12" />
       <window_info anchor="bottom" id="Java Enterprise" order="13" />
       <window_info anchor="bottom" id="Messages" order="14" />
-      <window_info active="true" anchor="bottom" id="Run Dashboard" order="15" visible="true" weight="0.50774527" />
+      <window_info anchor="bottom" id="Run Dashboard" order="15" visible="true" weight="0.3149742" />
       <window_info anchor="bottom" id="Problems" order="16" />
       <window_info anchor="bottom" id="JRebel Executor" order="17" />
       <window_info anchor="bottom" id="JRebel Console" order="18" side_tool="true" />
@@ -417,6 +340,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add README.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="add README.md" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -700,10 +627,25 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hello-spring-cloud-zuul/src/main/resources/application.yml">
+    <entry file="file://$PROJECT_DIR$/hello-spring-cloud-zuul/src/main/java/top/lwaiting/hello/spring/cloud/zuul/filter/LoginFilter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="44" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="44" />
+        <state relative-caret-position="629">
+          <caret line="50" column="20" selection-start-line="50" selection-start-column="20" selection-end-line="50" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hello-spring-cloud-service-admin/src/main/java/top/lwaiting/hello/spring/cloud/service/admin/ServiceAdminApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="16" column="67" selection-start-line="16" selection-start-column="67" selection-end-line="16" selection-end-column="67" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#483#484#0" expanded="true" />
+            <element signature="e#557#558#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -714,32 +656,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hello-spring-cloud-zuul/src/main/java/top/lwaiting/hello/spring/cloud/zuul/filter/LoginFilter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="50" column="20" selection-start-line="50" selection-start-column="20" selection-end-line="50" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+    <entry file="file://$PROJECT_DIR$/REMADE.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="54">
+            <caret line="1123" column="7" lean-forward="true" selection-start-line="1123" selection-start-column="7" selection-end-line="1123" selection-end-column="7" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hello-spring-cloud-service-admin/src/main/java/top/lwaiting/hello/spring/cloud/service/admin/ServiceAdminApplication.java">
+    <entry file="file://$PROJECT_DIR$/hello-spring-cloud-zuul/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="199">
-          <caret line="16" column="67" selection-start-line="16" selection-start-column="67" selection-end-line="16" selection-end-column="67" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#483#484#0" expanded="true" />
-            <element signature="e#557#558#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="255">
+          <caret line="15" column="44" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="44" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/hello-spring-cloud-zuul/src/main/java/top/lwaiting/hello/spring/cloud/zuul/ZuulApplication.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="97">
-          <caret line="11" column="24" lean-forward="true" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+          <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#598#599#0" expanded="true" />
