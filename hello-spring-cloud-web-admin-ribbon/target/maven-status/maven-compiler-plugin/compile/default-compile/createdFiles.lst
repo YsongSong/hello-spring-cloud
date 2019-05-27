@@ -1,0 +1,5 @@
+top\lwaiting\hello\spring\cloud\web\admin\ribbon\config\HystrixDashboardConfiguration.class
+top\lwaiting\hello\spring\cloud\web\admin\ribbon\controller\AdminController.class
+top\lwaiting\hello\spring\cloud\web\admin\ribbon\config\RestTemplateConfiguration.class
+top\lwaiting\hello\spring\cloud\web\admin\ribbon\service\AdminService.class
+top\lwaiting\hello\spring\cloud\web\admin\ribbon\WebAdminRibbonApplication.class

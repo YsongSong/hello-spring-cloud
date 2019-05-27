@@ -1,0 +1,4 @@
+top\lwaiting\hello\spring\cloud\zuul\ZuulApplication.class
+top\lwaiting\hello\spring\cloud\zuul\provider\WebAdminFeignFallbackProvider.class
+top\lwaiting\hello\spring\cloud\zuul\provider\WebAdminFeignFallbackProvider$1.class
+top\lwaiting\hello\spring\cloud\zuul\filter\LoginFilter.class
