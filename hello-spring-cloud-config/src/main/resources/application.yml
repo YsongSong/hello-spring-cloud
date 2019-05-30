@@ -1,0 +1,21 @@
+spring:
+  application:
+    name: hello-spring-cloud-config
+
+  cloud:
+    config:
+      label: master
+      server:
+        git:
+          uri: https://github.com/YsongSong/MyConfig.git
+          search-paths: repo
+          username: YsongSong
+          password: 9113000875asd
+
+server:
+  port: 8888
+
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8761/eureka/
