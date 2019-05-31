@@ -26,6 +26,7 @@
 
         <!-- Spring Settings -->
         <spring-cloud.version>Finchley.RELEASE</spring-cloud.version>
+        <zipkin.version>2.10.1</zipkin.version>
     </properties>
 
     <dependencyManagement>

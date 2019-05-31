@@ -49,6 +49,11 @@
         </dependency>
         <!-- Spring Cloud End -->
 
+        <dependency>
+            <groupId>org.springframework.cloud</groupId>
+            <artifactId>spring-cloud-starter-zipkin</artifactId>
+        </dependency>
+
     </dependencies>
 
     <build>
